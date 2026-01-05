@@ -6,7 +6,14 @@
 // //browser
 // document.body.appendChild(h1);
 
+// import username from "./app.js"
+// import {arr} from "./app.js"
+// console.log(arr)
 
-import whatever from "./app"
-console.log(a);
+
+import naam from "./app.js"
+import user2 from "./test.js"
+import {age} from "./app.js"
+console.log(naam,user2)
+console.log(age)
 
