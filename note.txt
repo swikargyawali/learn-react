@@ -9,3 +9,16 @@ Framework //you wanna seperate the different library structure.(everything is in
 
 -NEXTJS
 -ANGULAR
+
+
+
+//REAL DOM vs VIRTUAL DOM
+
+//REAL DOM -- if you wanna make change , it reloads the whole page (like a old facebook)
+
+//VIRTUAL DOM -- it is a copy of real DOM. it make changes what required. (compare with real dom and make changes what needed)
+
+
+JSX
+
+HTML + JAVASCRIPT combinatiom
