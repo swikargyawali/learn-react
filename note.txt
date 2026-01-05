@@ -1,0 +1,11 @@
+Library //only for a particular feature
+
+-REACT JS
+-GSAP
+-LENIS
+
+
+Framework //you wanna seperate the different library structure.
+
+-NEXTJS
+-ANGULAR
