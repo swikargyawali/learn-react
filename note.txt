@@ -1,11 +1,11 @@
 Library //only for a particular feature
-
+(You build everything from scratch by yourself)
 -REACT JS
 -GSAP
 -LENIS
 
 
-Framework //you wanna seperate the different library structure.
+Framework //you wanna seperate the different library structure.(everything is inbuilt)
 
 -NEXTJS
 -ANGULAR
