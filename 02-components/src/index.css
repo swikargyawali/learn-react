@@ -16,3 +16,8 @@ html,body{
   margin: 20px;
   padding: 20px;
 }
+
+
+.nav{
+  background-color: blue;
+}

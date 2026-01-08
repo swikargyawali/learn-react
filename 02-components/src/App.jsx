@@ -1,14 +1,15 @@
 import React from 'react'
+import Card from './components/card'
+import Navbar from './components/Navbar'
 
-
+//usally app.jsx should be empty because we render everything ( so less code )
 const App = () => {
+
   return (
     <div>
-      <div className='card'>
-        <h1>Swikar Gyawali</h1>
-        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iure, ratione.</p>
+      <Navbar/>
+      <Card />
       </div>
-    </div>
   )
 }
 
